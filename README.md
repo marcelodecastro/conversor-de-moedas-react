@@ -2,6 +2,8 @@ Aplicação desenvolvida em React com API de conversão de moedas:
 https://www.currencyconverterapi.com/
 
 Lay out e diagramação Marcelo de Castro
+Visite:
+https://conversor-de-moedas-react-delta.vercel.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
